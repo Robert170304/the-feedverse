@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "Rocket Report: Starliner soars into orbit, About those Raptor RUDs in Texas",
+            "description": "\"From the outside, it might look like an ordinary rocket.\"",
+            "url": "https://arstechnica.com/science/2022/05/rocket-report-starliner-soars-into-orbit-about-those-raptor-ruds-in-texas/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/TTM_7527-760x380.jpg",
+            "publishedAt": "2022-05-20T11:00:51+00:00",
+            "content": "Enlarge/ The Starliner spacecraft launches Thursday evening on top of an Atlas V rocket.\r\n28 with 19 posters participating\r\nWelcome to Edition 4.43 of the Rocket Report! Thanks for your patience last… [+17356 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "COLLEEN BARRY",
+            "title": "'I can’t see the light': War fuels surging prices in Europe",
+            "description": "MILAN (AP) — Edoardo Ronzoni inspects a construction site near Milan that he shut down in March as costs for materials skyrocketed. He can’t complete a half-built roundabout at an intersection known for fender-benders because asphalt, cast-iron pipes and conc…",
+            "url": "https://apnews.com/e517e89534a01f87e9be1730b10c6519",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/d99f5ddbe32141038d6f53d24d134c25/3000.jpeg",
+            "publishedAt": "2022-05-20T06:26:17Z",
+            "content": "MILAN (AP) — Edoardo Ronzoni inspects a construction site near Milan that he shut down in March as costs for materials skyrocketed. He can’t complete a half-built roundabout at an intersection known … [+6720 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": null,
+            "title": "We mustn’t let the billionaire rocket men decide what happens in space",
+            "description": "Right now, very few of us have a say in how humans get to space or what we do there. That has to change, says Chanda Prescod-Weinstein",
+            "url": "https://www.newscientist.com/article/mg25333780-100-we-mustnt-let-the-billionaire-rocket-men-decide-what-happens-in-space/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2022/03/16113446/SEI_927846131.jpg",
+            "publishedAt": "2022-03-16T00:00:00Z",
+            "content": "By Chanda Prescod-Weinstein\r\nSezeryadigar/Getty Images\r\nWHEN I was a kid, only a few governments could afford to send people into space. By and large, this continues to be true. Though much has been … [+455 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Nick Romano",
+            "title": "<em>Haunting of Bly Manor</em> creators bring religious horrors to life in trailer for mysterious <em>Midnight Mass</em>",
+            "description": "A mysterious priest, unexplainable miracles, a religious fervor. Something's not right on Crockett Island.",
+            "url": "https://ew.com/tv/midnight-mass-trailer-haunting-of-bly-manor-creators-religious-horror/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B460%2C106%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2021%2F08%2F07%2FMidnight-Mass-7.jpg",
+            "publishedAt": "2021-09-08T19:00:00Z",
+            "content": "The creators of The Haunting of Hill House and Bly Manor are taking us to church. \r\nThe newly released trailer for Midnight Mass blesses Netflix bingers with a bounty of new footage from this mystery… [+1699 chars]"
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Israel under rockets from Gaza - Live Updates",
+            "description": "The operation against Palestinian Islamic Jihad (PIJ) Leader Bahaa Abu Al-Ata was approved by the IDF chief-of-Staff, Shin Bet, Prime Minister Benjamin Netanyahu and the security cabinet.",
+            "url": "https://www.jpost.com/Breaking-News/Rocket-sirens-sound-near-Gaza-Strip-after-assassination-607581",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448852",
+            "publishedAt": "2019-11-13T11:37:00Z",
+            "content": "Several Israelis have been injured, including an eight-year-old girl who collapsed while running for shelter in Holon. She was evacuated to Wolfson hospital in serious condition.The following is a li… [+4911 chars]"
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": "Seth J. Frantzman",
+            "title": "Israel under fire: Interactive Map of rocket strikes",
+            "description": "",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Israel-under-fire-Interactive-Map-of-rocket-strikes-607725",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448867",
+            "publishedAt": "2019-11-13T11:03:00Z",
+            "content": "var cont = `Join Jerusalem Post Premium Plus now for just $5 and upgrade your experience with an ads-free website and exclusive content. Click here&gt;&gt;\r\n`;\r\ndocument.getElementById(\"linkPremium\")… [+41 chars]"
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": "Anna Ahronheim",
+            "title": "Massive barrage towards southern and central Israel shatters quiet",
+            "description": "IDF expects another day of rocket fire.",
+            "url": "https://www.jpost.com/Middle-East/Massive-barrage-towards-southern-and-central-Israel-shatters-quiet-607709",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448821",
+            "publishedAt": "2019-11-13T07:47:00Z",
+            "content": "Barrages of over a dozen rockets were launched by Palestinian Islamic Jihad towards southern and central Israel shattered a brief quiet felt overnight.\r\nIncoming rocket sirens sounded in Gaza border … [+3306 chars]"
+        }
+    ]
+}

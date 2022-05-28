@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap');
+
+body{
+    background-color: #fafafa;
+    font-family: 'Inter', sans-serif;
+}
+.cardContainer{
+    height:fit-content;
+}
+.card{
+    background-color: #f8f9fa;
+}
+
+body.dark-theme {
+    background-color: #1e2528;
+}
+
+.top-link {
+    font-size: 1.25rem;
+    position: fixed;
+    bottom: 3rem;
+    right: 3rem;
+    background: #f8f9fa;
+    width: 2rem;
+    height: 2rem;
+    display: grid;
+    place-items: center;
+    border-radius: 10px;
+    color: #1e2528;
+    visibility: visible;
+    z-index: 100;
+  }
