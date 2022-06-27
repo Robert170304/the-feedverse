@@ -60,14 +60,14 @@ export default class App extends Component {
           categoryClick={this.handleCategorylick.bind(this)} handleSearchChng={this.handleSearchChng} />
         <LoadingBar color='#0EF6BE' progress={this.state.progress} />
         <Routes>
-          <Route path='/feeds' element={<News theme={this.currentTheme} 
+          <Route path='/' element={<News theme={this.currentTheme} 
           key={this.state.category} 
           setProgress={this.handleLoadingBar}
           pageSize={this.state.pageSize}
           country='in'
           category={this.state.category}
           categoryClick={this.handleCategorylick.bind(this)}/>} />
-          <Route exact path="/about" element={<About/>} />
+          {/* <Route exact path="/about" element={<About/>} /> */}
         </Routes>
         {this.state.neededHeight >= 500 && <a className="top-link" href='javascript:window.scrollTo(0,0)' accessKey='u'>
           <i className="bi bi-arrow-up-square-fill"></i>
